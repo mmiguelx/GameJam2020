@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2e1cab65f5ddcf49bd5406feb5cbf32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - grab_tile: {fileID: 8300000, guid: 3fa41fbb26e6746e6becffce88249bcd, type: 3}
+  - drop_tile: {fileID: 8300000, guid: 52a12dfe4b2b149e9ae24d2854590e15, type: 3}
+  - hammer_sound: {fileID: 8300000, guid: cbdebeb907ab048599b5ec7d444b35f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
